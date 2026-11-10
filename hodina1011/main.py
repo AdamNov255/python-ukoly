@@ -17,7 +17,8 @@ while dokonceno == False:
      b = temp
  
     print(" ")
-    print(f"Mesic {pocet_mesicu}:  {b} par(u) | " + "🐇"*b)
+    print(f"mesic {pocet_mesicu}:  {b} par(u) | " + "🐇"*b)
  
 print(" ")
 print(f"Na cisarkem ostrove bude celkem {b} paru")
+ 
